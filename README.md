@@ -1,14 +1,12 @@
 # flag-icon-css
 
-[![npm version](https://badge.fury.io/js/flag-icon-css.svg)](https://badge.fury.io/js/flag-icon-css)
-[![Bower version](https://badge.fury.io/bo/flag-icon-css.svg)](https://badge.fury.io/bo/flag-icon-css)
-
 A collection of all country flags in SVG — plus the CSS for easier integration.
-See the [demo](http://lipis.github.io/flag-icon-css/).
+
+Forked from [flag-icon-css](https://github.com/lipis/flag-icon-css) by Panayiotis Lipiridis.
 
 Install
 -------
-You can either [download](https://github.com/lipis/flag-icon-css/archive/master.zip)
+You can either [download](https://github.com/jagomf/flag-icon-css/archive/master.zip)
 the whole project as is or install it via Bower or NPM:
 
 ```bash
@@ -25,8 +23,8 @@ of a country) to an empty `<span>`. If you want to have a squared version flag
 then add the class `flag-icon-squared` as well. Example:
 
 ```html
-<span class="flag-icon flag-icon-gr"></span>
-<span class="flag-icon flag-icon-gr flag-icon-squared"></span>
+<span class="flag-icon flag-icon-es"></span>
+<span class="flag-icon flag-icon-es flag-icon-squared"></span>
 ```
 
 You could also apply this to any element, but in that case you'll have to use the
@@ -68,7 +66,7 @@ $ grunt connect
 
 To have only specific countries in the css file, remove the ones that you don't
 need from the
-[`flag-icon-list.less`](https://github.com/lipis/flag-icon-css/blob/master/less/flag-icon-list.less)
+[`flag-icon-list.less`](https://github.com/jagomf/flag-icon-css/blob/master/less/flag-icon-list.less)
 file and build it again.
 
 ## Credits
