@@ -4,8 +4,8 @@ A collection of all country flags in SVG — plus the CSS for easier integration
 
 Forked from [flag-icon-css](https://github.com/lipis/flag-icon-css) by Panayiotis Lipiridis.
 
-Install
--------
+## Install
+
 You can either [download](https://github.com/jagomf/flag-icon-css/archive/master.zip)
 the whole project as is or install it via Bower or NPM:
 
