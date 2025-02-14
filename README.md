@@ -19,7 +19,8 @@ $ npm install flag-icon-css
 For using the flags inline with text add the classes `.flag-icon` and
 `.flag-icon-xx` (where `xx` is the
 [ISO 3166-1-alpha-2 code](https://www.iso.org/obp/ui/#search/code/)
-of a country) to an empty `<span>`. If you want to have a squared version flag
+of a [soverein country or especially recognized land](https://github.com/jagomf/countrieslist))
+to an empty `<span>`. If you want to have a squared version flag
 then add the class `flag-icon-squared` as well. Example:
 
 ```html
